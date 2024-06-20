@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "karan makvana",
+  "author": "Karan-makvana",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.1.0",
